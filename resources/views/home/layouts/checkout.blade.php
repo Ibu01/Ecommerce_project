@@ -54,7 +54,7 @@
                                 @endforeach
                             </tbody>
                         </table>
-                        <h4 class="text-center text-danger">Gross Total Price: {{ $total }}</h4>
+                        <h4 class="text-center text-danger">Gross Total-Price: {{ $total }}</h4>
                     </div>
                     <div class="mt-3">
                         <div class="d-flex ">
